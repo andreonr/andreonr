@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, my name is André, and I'm studying to become a software developer. 
 ![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
 ##
 <a href="https://github.com/andrellafco/github-readme-stats">
@@ -10,9 +10,10 @@
 
 <br/>
 <div style="display: inline_block"><br>
+  <img align="center" alt="Andre - Rb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/ruby.svg">
   <img align="center" alt="Andre - Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 <br/>
   
