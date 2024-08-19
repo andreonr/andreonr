@@ -1,4 +1,4 @@
-## Hi there 👋, my name is André and I'm studying to become a software developer. 
+## Hi there 👋, my name is André and I'm System Analysis and Development Student. 
 ![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
 ##
 <a href="https://github.com/andrellafco/github-readme-stats">
