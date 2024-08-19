@@ -2,6 +2,7 @@
 I'm System Analysis and Development Student. 
 ![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)
 ##
+
 <a href="https://github.com/andrellafco/github-readme-stats">
   <img height=200 align="justify" src="https://github-readme-stats.vercel.app/api?username=andrellafco&theme=github_dark" />
 </a>
@@ -11,7 +12,6 @@ I'm System Analysis and Development Student.
 
 <br/>
 <div style="display: inline_block"><br>
-  
   <img align="center" alt="Andre - Rb" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original.svg">
   <img align="center" alt="Andre - Rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg">    
   <img align="center" alt="Andre - Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
