@@ -4,10 +4,10 @@ I'm System Analysis and Development Student.
 ##
 
 <a href="https://github.com/andrellafco/github-readme-stats">
-  <img height=200 align="justify" src="https://github-readme-stats.vercel.app/api?username=andrellafco&theme=github_dark" />
+  <img height=150 align="justify" src="https://github-readme-stats.vercel.app/api?username=andrellafco&theme=github_dark" />
 </a>
 <a href="https://github.com/andrellafco/convoychat">
-  <img height=200 align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrellafco&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+  <img height=150 align="justify" src="https://github-readme-stats.vercel.app/api/top-langs?username=andrellafco&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </a>
 
 <br/>
