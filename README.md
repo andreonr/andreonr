@@ -7,7 +7,7 @@ I'm System Analysis and Development Student.
 <br/>
 
 <!-- <a href="https://github.com/andrellafco/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrellafco&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Andre's github stats" /></a> --> 
-<a href="https://github.com/andreonrails/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreonr&layout=compact&theme=github_dark_dimmed&hide_border=true" /></a> 
+<a href="https://github.com/andreonr/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreonr&layout=compact&theme=github_dark_dimmed&hide_border=true" /></a> 
 
 </a>
 <div style="display: inline_block"><br>
